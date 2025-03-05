@@ -1,0 +1,5 @@
+train: C:\Users\josee\OneDrive\Documentos\TEC\Tarea\IA\IA-Proyecto\Data\train\
+val: C:\Users\josee\OneDrive\Documentos\TEC\Tarea\IA\IA-Proyecto\Data\val\
+
+nc: 1
+names: ["maltese"]
